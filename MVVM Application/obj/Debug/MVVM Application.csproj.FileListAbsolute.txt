@@ -1,0 +1,15 @@
+C:\Users\Dave Lynam\Documents\WPF Training\MVVM Application\MVVM Application\bin\Debug\MVVM Application.exe.config
+C:\Users\Dave Lynam\Documents\WPF Training\MVVM Application\MVVM Application\bin\Debug\MVVM Application.exe
+C:\Users\Dave Lynam\Documents\WPF Training\MVVM Application\MVVM Application\bin\Debug\MVVM Application.pdb
+C:\Users\Dave Lynam\Documents\WPF Training\MVVM Application\MVVM Application\obj\Debug\MVVM Application.csprojAssemblyReference.cache
+C:\Users\Dave Lynam\Documents\WPF Training\MVVM Application\MVVM Application\obj\Debug\MainWindow.g.cs
+C:\Users\Dave Lynam\Documents\WPF Training\MVVM Application\MVVM Application\obj\Debug\App.g.cs
+C:\Users\Dave Lynam\Documents\WPF Training\MVVM Application\MVVM Application\obj\Debug\MVVM Application_MarkupCompile.cache
+C:\Users\Dave Lynam\Documents\WPF Training\MVVM Application\MVVM Application\obj\Debug\MVVM Application_MarkupCompile.lref
+C:\Users\Dave Lynam\Documents\WPF Training\MVVM Application\MVVM Application\obj\Debug\MainWindow.baml
+C:\Users\Dave Lynam\Documents\WPF Training\MVVM Application\MVVM Application\obj\Debug\MVVM Application.g.resources
+C:\Users\Dave Lynam\Documents\WPF Training\MVVM Application\MVVM Application\obj\Debug\MVVM_Application.Properties.Resources.resources
+C:\Users\Dave Lynam\Documents\WPF Training\MVVM Application\MVVM Application\obj\Debug\MVVM Application.csproj.GenerateResource.cache
+C:\Users\Dave Lynam\Documents\WPF Training\MVVM Application\MVVM Application\obj\Debug\MVVM Application.csproj.CoreCompileInputs.cache
+C:\Users\Dave Lynam\Documents\WPF Training\MVVM Application\MVVM Application\obj\Debug\MVVM Application.exe
+C:\Users\Dave Lynam\Documents\WPF Training\MVVM Application\MVVM Application\obj\Debug\MVVM Application.pdb
